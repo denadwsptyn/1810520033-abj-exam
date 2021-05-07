@@ -1,0 +1,5 @@
+Nama Perangkat : mikrotik1, Lokasi : gedung a
+Nama Perangkat : mikrotik2, Lokasi : gedung b
+Nama Perangkat : mikrotik3, Lokasi : gedung c
+Nama Perangkat : Mikrotik4, Lokasi : gedung d
+Nama Perangkat : mikrotik5, Lokasi : gedung e
